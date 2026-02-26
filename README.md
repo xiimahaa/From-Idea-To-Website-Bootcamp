@@ -1,4 +1,4 @@
-# 🚀 From Idea to Website Bootcamp
+# 🌐 From Idea to Website Bootcamp
 
 Welcome to the Bootcamp !
 
