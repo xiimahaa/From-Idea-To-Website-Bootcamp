@@ -1,4 +1,4 @@
-# From Idea to Website Bootcamp - Project Instructions
+# 🌐 From Idea to Website Bootcamp - Project Instructions
 
 ## 🚀 Project Submission
 
