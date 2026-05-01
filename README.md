@@ -14,10 +14,25 @@ By the end of the bootcamp, each participant will have their own deployed websit
 
 ## 📅 Bootcamp Schedule
 
-Day 1 → HTML + CSS Foundations  
-Day 2 → JavaScript Basics  
-Day 3 → Project Development (Self Study + Mentoring)  
-Day 4 → Project Completion + Deployment  
+### Day 1 → HTML & CSS Foundations
+- Learn how to structure web pages using HTML
+- Style your pages using CSS
+- Build your first static webpage
+
+### Day 2 → JavaScript Basics
+- Learn JavaScript fundamentals
+- Add interactivity to your website
+- Understand variables, functions, and events
+
+### Day 3 → Project Development (Mentored Self Study)
+- Start building your own website project
+- Work independently with mentor support
+- Apply everything you learned in Days 1 & 2
+
+### Day 4 → Finalization & Deployment
+- Finish your project
+- Fix bugs and improve UI
+- Deploy your website online
 
 ---
 
